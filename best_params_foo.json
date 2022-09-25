@@ -1,0 +1,1 @@
+{"lof_params": {"contamination": 0.0977971323468971, "n_neighbors": 37}, "lgb_params": {"boosting_type": "gbdt", "max_depth": 2, "num_leaves": 23, "min_child_samples": 154, "subsample": 0.6369418202712589, "reg_alpha": 13.676082562950995, "reg_lambda": 5.947365650979849, "colsample_bytree": 0.8557233494858267, "n_estimators": 236, "learning_rate": 0.04657020290153203}}

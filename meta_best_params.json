@@ -1,1 +1,1 @@
-{"vec_params": {"ngram_range": [1, 4], "max_features": 500}, "sgd_params": {"alpha": 0.0010651543319386272, "tol": 0.008540730175020021, "average": false}}
+{"vec_params": {"ngram_range": [1, 2], "max_features": 300}, "sgd_params": {"alpha": 2.9508218540696908e-05, "tol": 0.06792215358272465}}
